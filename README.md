@@ -53,7 +53,7 @@
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" />
 </p>
 
-<h3 align="center">Второстепенное</h3>
+<h3 align="center">Другое</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 	<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
