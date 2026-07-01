@@ -61,10 +61,13 @@
 
 <h3 align="center">Проекты</h3>
 <p align="center">
+	<a href="https://github.com/Lyaguh21/spot">
+		<img src="https://img.shields.io/badge/Spot-5807ed?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
+	</a>
 	<a href="https://github.com/MissClickRND/agrohub">
 		<img src="https://img.shields.io/badge/AgroHub-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
 	</a>
-    <a href="https://github.com/Lyaguh31/la-maison">
+    <a href="https://github.com/Lyaguh21/la-maison">
 		<img src="https://img.shields.io/badge/La%20Maison-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="La Maison" />
 	</a>
 </p>
