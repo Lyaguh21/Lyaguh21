@@ -60,14 +60,17 @@
 </p>
 
 <h3 align="center">Проекты</h3>
-<p align="center">
-	<a href="https://github.com/Lyaguh21/spot">
-		<img src="https://img.shields.io/badge/Spot-5807ed?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
+<p align="center" underline="none">
+	<a href="https://github.com/Lyaguh21/spot" style="color: black; text-decoration: none;">
+		<img src="https://img.shields.io/badge/Spot-5807ed?style=for-the-badge&logo=github&logoColor=white" alt="SPOT" />
 	</a>
-	<a href="https://github.com/MissClickRND/agrohub">
+	<a href="https://github.com/MissClickRND/agrohub" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/AgroHub-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
 	</a>
-    <a href="https://github.com/Lyaguh21/la-maison">
+    <a href="https://github.com/Lyaguh21/la-maison" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/La%20Maison-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="La Maison" />
+	</a>
+	<a href="https://github.com/MissClickRND/umirhack-ll" style="color: black; text-decoration: none;">
+		<img src="https://img.shields.io/badge/TrustEdu-cb07d9?style=for-the-badge&logo=github&logoColor=white" alt="TrustEDU" />
 	</a>
 </p>
