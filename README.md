@@ -64,6 +64,9 @@
 	<a href="https://github.com/Lyaguh21/spot" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/Spot-5807ed?style=for-the-badge&logo=github&logoColor=white" alt="SPOT" />
 	</a>
+		<a href="https://github.com/MissClickRND/stoq" style="color: black; text-decoration: none;">
+		<img src="https://img.shields.io/badge/Stoq-99FF99?style=for-the-badge&logo=github&logoColor=white" alt="Stoq" />
+	</a>
 	<a href="https://github.com/MissClickRND/agrohub" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/AgroHub-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
 	</a>
