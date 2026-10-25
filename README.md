@@ -67,11 +67,11 @@
 		<a href="https://github.com/MissClickRND/stoq" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/Stoq-0fbd4f?style=for-the-badge&logo=github&logoColor=white" alt="Stoq" />
 	</a>
-	<a href="https://github.com/MissClickRND/agrohub" style="color: black; text-decoration: none;">
-		<img src="https://img.shields.io/badge/AgroHub-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
-	</a>
-    <a href="https://github.com/Lyaguh21/la-maison" style="color: black; text-decoration: none;">
+ <a href="https://github.com/Lyaguh21/la-maison" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/La%20Maison-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="La Maison" />
+	</a>
+		<a href="https://github.com/MissClickRND/agrohub" style="color: black; text-decoration: none;">
+		<img src="https://img.shields.io/badge/AgroHub-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="AgroHub" />
 	</a>
 	<a href="https://github.com/MissClickRND/umirhack-ll" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/TrustEdu-cb07d9?style=for-the-badge&logo=github&logoColor=white" alt="TrustEDU" />
