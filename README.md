@@ -7,7 +7,7 @@
 	<a href="https://t.me/FrontendSwamp">
 		<img src="https://img.shields.io/badge/Telegram_Blog-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Blog" />
 	</a>
-	<a href="[https://t.me/FrontendSwamp](https://leetcode.com/u/lyaguh21/)">
+	<a href="https://leetcode.com/u/lyaguh21/">
 		<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 	</a>
 </p>
