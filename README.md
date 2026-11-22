@@ -7,6 +7,9 @@
 	<a href="https://t.me/FrontendSwamp">
 		<img src="https://img.shields.io/badge/Telegram_Blog-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Blog" />
 	</a>
+	<a href="[https://t.me/FrontendSwamp](https://leetcode.com/u/lyaguh21/)">
+		<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+	</a>
 </p>
 
 <h3 align="center">Языки программирования</h3>
@@ -63,6 +66,9 @@
 <p align="center" underline="none">
 	<a href="https://github.com/Lyaguh21/spot" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/Spot-5807ed?style=for-the-badge&logo=github&logoColor=white" alt="SPOT" />
+	</a>
+	<a href="https://github.com/Lyaguh21/kinopolka" style="color: black; text-decoration: none;">
+		<img src="https://img.shields.io/badge/Kinopolka-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Кинополка" />
 	</a>
 		<a href="https://github.com/MissClickRND/stoq" style="color: black; text-decoration: none;">
 		<img src="https://img.shields.io/badge/Stoq-0fbd4f?style=for-the-badge&logo=github&logoColor=white" alt="Stoq" />
